@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Salesforce geek. ☁️ 
+Salesforce geek. ☁️ Co-creator of [Apex Fluently](https://apexfluently.beyondthecloud.dev/) - Open-source Apex libraries.
 
 Clean code lover and thoughtful solutions enthusiast.
 
