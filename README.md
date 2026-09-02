@@ -1,12 +1,14 @@
 # Hi there 👋
 
-Salesforce geek. ☁️ Co-creator of [Apex Fluently](https://apexfluently.beyondthecloud.dev/) - Open-source Apex libraries.
+Salesforce geek. ☁️
 
-Clean code lover and thoughtful solutions enthusiast.
+Founder and CEO at [Beyond the Cloud](https://beyondthecloud.dev/).
+
+Creator of [Apex Fluently](https://apexfluently.beyondthecloud.dev/) - Open-source Salesforce libraries.
 
 Author in [BeyondTheCloud.Dev](https://blog.beyondthecloud.dev/author/piotr-gajek).
 
-Founder of [Beyond the Cloud](https://beyondthecloud.dev/).
+Clean code lover and thoughtful solutions enthusiast.
 
 - 🔭 I’m currently working on [Salesforce Frameworks](https://github.com/beyond-the-cloud-dev).
 - [SOQL Lib](https://github.com/beyond-the-cloud-dev/soql-lib)
