@@ -4,7 +4,8 @@ Salesforce geek. ☁️ Co-creator of [Apex Fluently](https://apexfluently.beyon
 
 Clean code lover and thoughtful solutions enthusiast.
 
-Author in [BeyondTheCloud.Dev](https://beyondthecloud.dev/blog)
+Author in [BeyondTheCloud.Dev](https://beyondthecloud.dev/blog).
+Founder of [Beyond the Cloud](https://beyondthecloud.dev/).
 
 - 🔭 I’m currently working on [Salesforce Frameworks](https://github.com/beyond-the-cloud-dev).
 - [SOQL Lib](https://github.com/beyond-the-cloud-dev/soql-lib)
