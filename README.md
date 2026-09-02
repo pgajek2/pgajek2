@@ -4,7 +4,7 @@ Salesforce geek. ☁️ Co-creator of [Apex Fluently](https://apexfluently.beyon
 
 Clean code lover and thoughtful solutions enthusiast.
 
-Author in [BeyondTheCloud.Dev](https://beyondthecloud.dev/blog).
+Author in [BeyondTheCloud.Dev](https://blog.beyondthecloud.dev/author/piotr-gajek).
 
 Founder of [Beyond the Cloud](https://beyondthecloud.dev/).
 
