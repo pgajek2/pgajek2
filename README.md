@@ -13,6 +13,7 @@ Clean code lover and thoughtful solutions enthusiast.
 - 🔭 I’m currently working on [Salesforce Frameworks](https://github.com/beyond-the-cloud-dev).
 - [SOQL Lib](https://github.com/beyond-the-cloud-dev/soql-lib)
 - [DML Lib](https://github.com/beyond-the-cloud-dev/dml-lib)
+- [Trigger Lib](https://github.com/beyond-the-cloud-dev/trigger-lib)
 - [Apex Consts](https://github.com/beyond-the-cloud-dev/apex-consts)
 - [VSC Salesforce Snippets](https://github.com/beyond-the-cloud-dev/vsc-salesforce-code-snippets)
 - [LWC Single Page Application](https://github.com/beyond-the-cloud-dev/lwc-spa)
